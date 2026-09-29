@@ -1,0 +1,33 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+Copyright (c) 2026 VintergatanWebb UF. All Rights Reserved.
+
+1. GRANT OF LICENSE
+Subject to the terms of this Agreement and upon complete settlement and receipt of full payment for all agreed fees and invoices associated with the project, VintergatanWebb UF ("Licensor") grants the client ("Licensee") a non-exclusive, non-transferable, perpetual license to use, execute, modify, and build upon the custom deliverables solely for internal business operations, personal use, or the specific designated project for which it was delivered.
+
+Access to or possession of pre-release source code or development builds during the project does not constitute a license grant prior to full payment.
+
+2. RESTRICTIONS
+The Licensee SHALL NOT:
+
+a) Sublicense, sell, resell, lease, rent, distribute, or transfer the base Software, modules, or any portion thereof as a standalone asset, or host/manage the base Software as a service bureau or managed application service for third parties. (Normal web hosting necessary for the Licensee’s designated project is expressly permitted.)
+
+b) Rebrand, market, publish, or present the base Software, core framework, modules, or underlying codebase as a standalone product, reusable template, SaaS, or commercial framework.
+
+c) Claim original authorship, ownership, or intellectual property rights over any part of the base Software, modules, or frameworks provided by the Licensor.
+
+3. INTELLECTUAL PROPERTY & THIRD-PARTY MATERIALS
+a) Ownership of Software & Modules: The Licensor retains sole ownership, copyright, and intellectual property rights in all base code, frameworks, custom modules, reusable components, and software developments created prior to or during the course of the project. The Licensee retains sole ownership of its proprietary text, media assets, trademarks, logos, and confidential business data provided to the Licensor.
+
+b) Third-Party & Open Source Software: The Software may contain or rely upon open-source libraries, packages, or third-party tools. Such components are subject to their respective third-party license agreements, and the Licensor makes no proprietary ownership claims over them.
+
+c) Licensee Materials: The Licensee warrants that it owns or has secured all necessary rights and permissions for all text, images, logos, branding, and other materials supplied to the Licensor for integration into the Software, and agrees to hold the Licensor harmless against any third-party intellectual property claims arising from such materials.
+
+4. WARRANTY, LIMITED REMEDY & LIMITATION OF LIABILITY
+a) Limited Warranty & Modifications Void: Except as expressly provided in an applicable Statement of Work, project agreement, or Service Level Agreement (such as an agreed 30-day post-launch bug-fix period to resolve verified defects that deviate from written specifications), the Software is provided "AS IS", without further warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement. Any unauthorized modification, alteration, or third-party code additions made to the Software by or on behalf of the Licensee immediately voids all warranties, bug-fix guarantees, and support obligations of the Licensor.
+
+b) Limitation of Liability: To the maximum extent permitted by applicable law, in no event shall the Licensor be liable for any indirect, incidental, special, exemplary, or consequential damages (including lost profits or business interruption) arising out of the use of or inability to use the Software.
+
+c) Liability Cap: Under all circumstances, the Licensor’s total aggregate financial liability arising out of or related to this Agreement or the Software shall be strictly limited to the total amount of fees actually paid by the Licensee to the Licensor for the specific project deliverables giving rise to the claim.
+
+5. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the substantive laws of Sweden. Any dispute, controversy, or claim arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the general courts of Sweden.

@@ -1,0 +1,43 @@
+{
+  "modules": [
+    {
+      "name": "hero",
+      "type": "attached",
+      "order": 1
+    },
+    {
+      "name": "features",
+      "type": "attached",
+      "order": 2
+    },
+    {
+      "name": "eshop",
+      "type": "attached",
+      "order": 3
+    },
+    {
+      "name": "about",
+      "type": "separate",
+      "title": "Om oss",
+      "order": 1
+    },
+    {
+      "name": "capability",
+      "type": "separate",
+      "title": "Möjligheter",
+      "order": 2
+    },
+            {
+      "name": "faq",
+      "type": "separate",
+      "title": "FAQ",
+      "order": 3
+    },
+        {
+      "name": "contact",
+      "type": "separate",
+      "title": "Kontakta oss!",
+      "order": 4
+    }
+  ]
+}
